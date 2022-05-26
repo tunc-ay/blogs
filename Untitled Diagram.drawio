@@ -1,14 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T07:22:11.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="5S-DurLk52xgcKt1LSqL" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T07:29:05.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="kH0NsNM_n6sgGT6EwPxe" version="18.1.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8FJNbgVW1-nZZftwPtHU-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="160" height="40" as="geometry" />
+        <mxCell id="8FJNbgVW1-nZZftwPtHU-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8FJNbgVW1-nZZftwPtHU-96" target="8FJNbgVW1-nZZftwPtHU-98">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8FJNbgVW1-nZZftwPtHU-97" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="80" width="160" height="40" as="geometry" />
+        <mxCell id="8FJNbgVW1-nZZftwPtHU-96" value="Writer-initiated docs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8FJNbgVW1-nZZftwPtHU-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8FJNbgVW1-nZZftwPtHU-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FJNbgVW1-nZZftwPtHU-98" value="A technical writer can initiate a documentation task in various ways:&amp;nbsp;&lt;br&gt;- By attending grooming session&lt;br&gt;- By investigating PBIs" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8FJNbgVW1-nZZftwPtHU-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8FJNbgVW1-nZZftwPtHU-102" target="8FJNbgVW1-nZZftwPtHU-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FJNbgVW1-nZZftwPtHU-102" value="Create a task" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8FJNbgVW1-nZZftwPtHU-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8FJNbgVW1-nZZftwPtHU-104" target="8FJNbgVW1-nZZftwPtHU-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FJNbgVW1-nZZftwPtHU-104" value="Link the documentation task to the relevant PBI." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8FJNbgVW1-nZZftwPtHU-106" value="Enter the following information:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
